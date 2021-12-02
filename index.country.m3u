@@ -1,0 +1,455 @@
+#EXTM3U
+#EXTINF:-1,beinsport
+countries/bein.m3u
+#EXTINF:-1,Afghanistan
+countries/af.m3u
+#EXTINF:-1,Albania
+countries/af.m3u
+#EXTINF:-1,Algeria
+countries/dz.m3u
+#EXTINF:-1,American Samoa
+countries/as.m3u
+#EXTINF:-1,Andorra
+countries/ad.m3u
+#EXTINF:-1,Angola
+countries/ao.m3u
+#EXTINF:-1,Antigua & Barbuda
+countries/ag.m3u
+#EXTINF:-1,Argentina
+countries/ar.m3u
+#EXTINF:-1,Armenia
+countries/am.m3u
+#EXTINF:-1,Aruba
+countries/aw.m3u
+#EXTINF:-1,Australia
+countries/au.m3u
+#EXTINF:-1,Austria
+countries/at.m3u
+#EXTINF:-1,Azerbaijan
+countries/az.m3u
+#EXTINF:-1,Bahamas
+countries/bs.m3u
+#EXTINF:-1,Bahrain
+countries/bh.m3u
+#EXTINF:-1,Bangladesh
+countries/bd.m3u
+#EXTINF:-1,Barbados
+countries/bb.m3u
+#EXTINF:-1,Belarus
+countries/by.m3u
+#EXTINF:-1,Belgium
+countries/be.m3u
+#EXTINF:-1,Benin
+countries/bj.m3u
+#EXTINF:-1,Bhutan
+countries/bt.m3u
+#EXTINF:-1,Bolivia
+countries/bo.m3u
+#EXTINF:-1,Bosnia
+countries/ba.m3u
+#EXTINF:-1,Botswana
+countries/bw.m3u
+#EXTINF:-1,Brazil
+countries/br.m3u
+#EXTINF:-1,Brunei
+countries/bn.m3u
+#EXTINF:-1,Bulgaria
+countries/bg.m3u
+#EXTINF:-1,Burkina Faso
+countries/bf.m3u
+#EXTINF:-1,Burundi
+countries/bi.m3u
+#EXTINF:-1,Burundi
+countries/bi.m3u
+#EXTINF:-1,Burundi
+countries/bi.m3u
+#EXTINF:-1,Burundi
+countries/bi.m3u
+#EXTINF:-1,Cambodia
+countries/kh.m3u
+#EXTINF:-1,Cameroon
+countries/cm.m3u
+#EXTINF:-1,Canada
+countries/ca.m3u
+#EXTINF:-1,Cape Verde
+countries/cv.m3u
+#EXTINF:-1,Central African Republic
+countries/cf.m3u
+#EXTINF:-1,Chad
+countries/td.m3u
+#EXTINF:-1,Chile
+countries/cl.m3u
+#EXTINF:-1,China
+countries/cn.m3u
+#EXTINF:-1,Colombia
+countries/co.m3u
+#EXTINF:-1,Comoros
+countries/km.m3u
+#EXTINF:-1,Congo - Brazzaville
+countries/cg.m3u
+#EXTINF:-1,Congo - Kinshasa
+countries/cd.m3u
+#EXTINF:-1,Cook Islands
+countries/ck.m3u
+#EXTINF:-1,Costa Rica
+countries/cr.m3u
+#EXTINF:-1,Côte d’Ivoire
+countries/ci.m3u
+#EXTINF:-1,Croatia
+countries/hr.m3u
+#EXTINF:-1,Cuba
+countries/cu.m3u
+#EXTINF:-1,Curaçao
+countries/cw.m3u
+#EXTINF:-1,Cyprus
+countries/cy.m3u
+#EXTINF:-1,Czechia
+countries/cz.m3u
+#EXTINF:-1,Denmark
+countries/dk.m3u
+#EXTINF:-1,Djibouti
+countries/dj.m3u
+#EXTINF:-1,Dominican Republic
+countries/do.m3u
+#EXTINF:-1,Ecuador
+countries/ec.m3u
+#EXTINF:-1,Egypt
+countries/eg.m3u
+#EXTINF:-1,El Salvador
+countries/sv.m3u
+#EXTINF:-1,Equatorial Guinea
+countries/gq.m3u
+#EXTINF:-1,Eritrea
+countries/er.m3u
+#EXTINF:-1,Estonia
+countries/ee.m3u
+#EXTINF:-1,Eswatini
+countries/sz.m3u
+#EXTINF:-1,Ethiopia
+countries/et.m3u
+#EXTINF:-1,Faroe Islands
+countries/fo.m3u
+#EXTINF:-1,Fiji
+countries/fj.m3u
+#EXTINF:-1,Finland
+countries/fi.m3u
+#EXTINF:-1,France
+countries/fr.m3u
+#EXTINF:-1,French Guiana
+countries/gf.m3u
+#EXTINF:-1,French Polynesia
+countries/pf.m3u
+#EXTINF:-1,French Southern Territories
+countries/tf.m3u
+#EXTINF:-1,Gabon
+countries/ga.m3u
+#EXTINF:-1,Gambia
+countries/gm.m3u
+#EXTINF:-1,Georgia
+countries/ge.m3u
+#EXTINF:-1,Germany
+countries/de.m3u
+#EXTINF:-1,Ghana
+countries/gh.m3u
+#EXTINF:-1,Greece
+countries/gr.m3u
+#EXTINF:-1,Greenland
+countries/gl.m3u
+#EXTINF:-1,Guadeloupe
+countries/gp.m3u
+#EXTINF:-1,Guam
+countries/gu.m3u
+#EXTINF:-1,Guatemala
+countries/gt.m3u
+#EXTINF:-1,Guinea
+countries/gn.m3u
+#EXTINF:-1,Guinea-Bissau
+countries/gw.m3u
+#EXTINF:-1,Haiti
+countries/ht.m3u
+#EXTINF:-1,Honduras
+countries/hn.m3u
+#EXTINF:-1,Hong Kong
+countries/hk.m3u
+#EXTINF:-1,Hungary
+countries/hu.m3u
+#EXTINF:-1,Iceland
+countries/is.m3u
+#EXTINF:-1,India
+countries/in.m3u
+#EXTINF:-1,Indonesia
+countries/id.m3u
+#EXTINF:-1,International
+countries/int.m3u
+#EXTINF:-1,Iran
+countries/ir.m3u
+#EXTINF:-1,Iraq
+countries/iq.m3u
+#EXTINF:-1,Ireland
+countries/ie.m3u
+#EXTINF:-1,Israel
+countries/il.m3u
+#EXTINF:-1,Italy
+countries/it.m3u
+#EXTINF:-1,Jamaica
+countries/jm.m3u
+#EXTINF:-1,Japan
+countries/jp.m3u
+#EXTINF:-1,Jordan
+countries/jo.m3u
+#EXTINF:-1,Kazakhstan
+countries/kz.m3u
+#EXTINF:-1,Kenya
+countries/ke.m3u
+#EXTINF:-1,Kiribati
+countries/ki.m3u
+#EXTINF:-1,Kosovo
+countries/xk.m3u
+#EXTINF:-1,Kuwait
+countries/kw.m3u
+#EXTINF:-1,Kyrgyzstan
+countries/kg.m3u
+#EXTINF:-1,Laos
+countries/la.m3u
+#EXTINF:-1,Latvia
+countries/lv.m3u
+#EXTINF:-1,Lebanon
+countries/lb.m3u
+#EXTINF:-1,Lesotho
+countries/ls.m3u
+#EXTINF:-1,Liberia
+countries/lr.m3u
+#EXTINF:-1,Libya
+countries/ly.m3u
+#EXTINF:-1,Liechtenstein
+countries/li.m3u
+#EXTINF:-1,Lithuania
+countries/lt.m3u
+#EXTINF:-1,Luxembourg
+countries/lu.m3u
+#EXTINF:-1,Macao
+countries/mo.m3u
+#EXTINF:-1,Madagascar
+countries/mg.m3u
+#EXTINF:-1,Malawi
+countries/mw.m3u
+#EXTINF:-1,Malaysia
+countries/my.m3u
+#EXTINF:-1,Maldives
+countries/mv.m3u
+#EXTINF:-1,Mali
+countries/ml.m3u
+#EXTINF:-1,Malta
+countries/mt.m3u
+#EXTINF:-1,Marshall Islands
+countries/mh.m3u
+#EXTINF:-1,Martinique
+countries/mq.m3u
+#EXTINF:-1,Mauritania
+countries/mr.m3u
+#EXTINF:-1,Mauritius
+countries/mu.m3u
+#EXTINF:-1,Mayotte
+countries/yt.m3u
+#EXTINF:-1,Mexico
+countries/mx.m3u
+#EXTINF:-1,Micronesia
+countries/fm.m3u
+#EXTINF:-1,Moldova
+countries/md.m3u
+#EXTINF:-1,Monaco
+countries/mc.m3u
+#EXTINF:-1,Mongolia
+countries/mn.m3u
+#EXTINF:-1,Montenegro
+countries/me.m3u
+#EXTINF:-1,Morocco
+countries/ma.m3u
+#EXTINF:-1,Mozambique
+countries/mz.m3u
+#EXTINF:-1,Myanmar
+countries/mm.m3u
+#EXTINF:-1,Namibia
+countries/na.m3u
+#EXTINF:-1,Nauru
+countries/nr.m3u
+#EXTINF:-1,Nepal
+countries/np.m3u
+#EXTINF:-1,Netherlands
+countries/nl.m3u
+#EXTINF:-1,New Caledonia
+countries/nc.m3u
+#EXTINF:-1,New Zealand
+countries/nz.m3u
+#EXTINF:-1,Nicaragua
+countries/ni.m3u
+#EXTINF:-1,Niger
+countries/ne.m3u
+#EXTINF:-1,Nigeria
+countries/ng.m3u
+#EXTINF:-1,Nigeria
+countries/ng.m3u
+#EXTINF:-1,Nigeria
+countries/ng.m3u
+#EXTINF:-1,Nigeria
+countries/ng.m3u
+#EXTINF:-1,Niue
+countries/nu.m3u
+#EXTINF:-1,Norfolk Island
+countries/nf.m3u
+#EXTINF:-1,North Korea
+countries/kp.m3u
+#EXTINF:-1,North Macedonia
+countries/mk.m3u
+#EXTINF:-1,Northern Mariana Islands
+countries/mp.m3u
+#EXTINF:-1,Norway
+countries/no.m3u
+#EXTINF:-1,Oman
+countries/om.m3u
+#EXTINF:-1,Pakistan
+countries/pk.m3u
+#EXTINF:-1,Palau
+countries/pw.m3u
+#EXTINF:-1,Palestine
+countries/ps.m3u
+#EXTINF:-1,Panama
+countries/pa.m3u
+#EXTINF:-1,Papua New Guinea
+countries/pg.m3u
+#EXTINF:-1,Paraguay
+countries/py.m3u
+#EXTINF:-1,Peru
+countries/pe.m3u
+#EXTINF:-1,Philippines
+countries/ph.m3u
+#EXTINF:-1,Pitcairn Islands
+countries/pn.m3u
+#EXTINF:-1,Poland
+countries/pl.m3u
+#EXTINF:-1,Portugal
+countries/pt.m3u
+#EXTINF:-1,Puerto Rico
+countries/pr.m3u
+#EXTINF:-1,Qatar
+countries/qa.m3u
+#EXTINF:-1,Réunion
+countries/re.m3u
+#EXTINF:-1,Romania
+countries/ro.m3u
+#EXTINF:-1,Russia
+countries/ru.m3u
+#EXTINF:-1,Rwanda
+countries/rw.m3u
+#EXTINF:-1,Samoa
+countries/ws.m3u
+#EXTINF:-1,San Marino
+countries/sm.m3u
+#EXTINF:-1,São Tomé & Príncipe
+countries/st.m3u
+#EXTINF:-1,Saudi Arabia
+countries/sa.m3u
+#EXTINF:-1,Senegal
+countries/sn.m3u
+#EXTINF:-1,Serbia
+countries/rs.m3u
+#EXTINF:-1,Seychelles
+countries/sc.m3u
+#EXTINF:-1,Sierra Leone
+countries/sl.m3u
+#EXTINF:-1,Singapore
+countries/sg.m3u
+#EXTINF:-1,Slovakia
+countries/sk.m3u
+#EXTINF:-1,Slovenia
+countries/si.m3u
+#EXTINF:-1,Solomon Islands
+countries/sb.m3u
+#EXTINF:-1,Somalia
+countries/so.m3u
+#EXTINF:-1,South Africa
+countries/za.m3u
+#EXTINF:-1,South Korea
+countries/kr.m3u
+#EXTINF:-1,South Sudan
+countries/ss.m3u
+#EXTINF:-1,Spain
+countries/es.m3u
+#EXTINF:-1,Sri Lanka
+countries/lk.m3u
+#EXTINF:-1,St. Barthélemy
+countries/bl.m3u
+#EXTINF:-1,St. Helena
+countries/sh.m3u
+#EXTINF:-1,St. Martin
+countries/mf.m3u
+#EXTINF:-1,Sudan
+countries/sd.m3u
+#EXTINF:-1,Sweden
+countries/se.m3u
+#EXTINF:-1,Switzerland
+countries/ch.m3u
+#EXTINF:-1,Syria
+countries/sy.m3u
+#EXTINF:-1,Taiwan
+countries/tw.m3u
+#EXTINF:-1,Tajikistan
+countries/tj.m3u
+#EXTINF:-1,Tanzania
+countries/tz.m3u
+#EXTINF:-1,Thailand
+countries/th.m3u
+#EXTINF:-1,Timor-Leste
+countries/tl.m3u
+#EXTINF:-1,Togo
+countries/tg.m3u
+#EXTINF:-1,Tokelau
+countries/tk.m3u
+#EXTINF:-1,Tonga
+countries/to.m3u
+#EXTINF:-1,Trinidad & Tobago
+countries/tt.m3u
+#EXTINF:-1,Tunisia
+countries/tn.m3u
+#EXTINF:-1,Turkey
+countries/tr.m3u
+#EXTINF:-1,Turkmenistan
+countries/tm.m3u
+#EXTINF:-1,Tuvalu
+countries/tv.m3u
+#EXTINF:-1,U.S. Virgin Islands
+countries/vi.m3u
+#EXTINF:-1,Uganda
+countries/ug.m3u
+#EXTINF:-1,Ukraine
+countries/ua.m3u
+#EXTINF:-1,United Arab Emirates
+countries/ae.m3u
+#EXTINF:-1,United Kingdom
+countries/uk.m3u
+#EXTINF:-1,United States
+countries/us.m3u
+#EXTINF:-1,Uruguay
+countries/uy.m3u
+#EXTINF:-1,Uzbekistan
+countries/uz.m3u
+#EXTINF:-1,Vanuatu
+countries/vu.m3u
+#EXTINF:-1,Vatican City
+countries/va.m3u
+#EXTINF:-1,Venezuela
+countries/ve.m3u
+#EXTINF:-1,Vietnam
+countries/vn.m3u
+#EXTINF:-1,Wallis & Futuna
+countries/wf.m3u
+#EXTINF:-1,Western Sahara
+countries/eh.m3u
+#EXTINF:-1,Yemen
+countries/ye.m3u
+#EXTINF:-1,Zambia
+countries/zm.m3u
+#EXTINF:-1,Zimbabwe
+countries/zw.m3u
+#EXTINF:-1,Undefined
+countries/undefined.m3u
