@@ -1,455 +1,179 @@
 #EXTM3U
-#EXTINF:-1,beinsport
-countries/bein.m3u
-#EXTINF:-1,Afghanistan
-countries/af.m3u
-#EXTINF:-1,Albania
-countries/af.m3u
-#EXTINF:-1,Algeria
-countries/dz.m3u
-#EXTINF:-1,American Samoa
-countries/as.m3u
-#EXTINF:-1,Andorra
-countries/ad.m3u
-#EXTINF:-1,Angola
-countries/ao.m3u
-#EXTINF:-1,Antigua & Barbuda
-countries/ag.m3u
-#EXTINF:-1,Argentina
-countries/ar.m3u
-#EXTINF:-1,Armenia
-countries/am.m3u
-#EXTINF:-1,Aruba
-countries/aw.m3u
-#EXTINF:-1,Australia
-countries/au.m3u
-#EXTINF:-1,Austria
-countries/at.m3u
-#EXTINF:-1,Azerbaijan
-countries/az.m3u
-#EXTINF:-1,Bahamas
-countries/bs.m3u
-#EXTINF:-1,Bahrain
-countries/bh.m3u
-#EXTINF:-1,Bangladesh
-countries/bd.m3u
-#EXTINF:-1,Barbados
-countries/bb.m3u
-#EXTINF:-1,Belarus
-countries/by.m3u
-#EXTINF:-1,Belgium
-countries/be.m3u
-#EXTINF:-1,Benin
-countries/bj.m3u
-#EXTINF:-1,Bhutan
-countries/bt.m3u
-#EXTINF:-1,Bolivia
-countries/bo.m3u
-#EXTINF:-1,Bosnia
-countries/ba.m3u
-#EXTINF:-1,Botswana
-countries/bw.m3u
-#EXTINF:-1,Brazil
-countries/br.m3u
-#EXTINF:-1,Brunei
-countries/bn.m3u
-#EXTINF:-1,Bulgaria
-countries/bg.m3u
-#EXTINF:-1,Burkina Faso
-countries/bf.m3u
-#EXTINF:-1,Burundi
-countries/bi.m3u
-#EXTINF:-1,Burundi
-countries/bi.m3u
-#EXTINF:-1,Burundi
-countries/bi.m3u
-#EXTINF:-1,Burundi
-countries/bi.m3u
-#EXTINF:-1,Cambodia
-countries/kh.m3u
-#EXTINF:-1,Cameroon
-countries/cm.m3u
-#EXTINF:-1,Canada
-countries/ca.m3u
-#EXTINF:-1,Cape Verde
-countries/cv.m3u
-#EXTINF:-1,Central African Republic
-countries/cf.m3u
-#EXTINF:-1,Chad
-countries/td.m3u
-#EXTINF:-1,Chile
-countries/cl.m3u
-#EXTINF:-1,China
-countries/cn.m3u
-#EXTINF:-1,Colombia
-countries/co.m3u
-#EXTINF:-1,Comoros
-countries/km.m3u
-#EXTINF:-1,Congo - Brazzaville
-countries/cg.m3u
-#EXTINF:-1,Congo - Kinshasa
-countries/cd.m3u
-#EXTINF:-1,Cook Islands
-countries/ck.m3u
-#EXTINF:-1,Costa Rica
-countries/cr.m3u
-#EXTINF:-1,Côte d’Ivoire
-countries/ci.m3u
-#EXTINF:-1,Croatia
-countries/hr.m3u
-#EXTINF:-1,Cuba
-countries/cu.m3u
-#EXTINF:-1,Curaçao
-countries/cw.m3u
-#EXTINF:-1,Cyprus
-countries/cy.m3u
-#EXTINF:-1,Czechia
-countries/cz.m3u
-#EXTINF:-1,Denmark
-countries/dk.m3u
-#EXTINF:-1,Djibouti
-countries/dj.m3u
-#EXTINF:-1,Dominican Republic
-countries/do.m3u
-#EXTINF:-1,Ecuador
-countries/ec.m3u
-#EXTINF:-1,Egypt
-countries/eg.m3u
-#EXTINF:-1,El Salvador
-countries/sv.m3u
-#EXTINF:-1,Equatorial Guinea
-countries/gq.m3u
-#EXTINF:-1,Eritrea
-countries/er.m3u
-#EXTINF:-1,Estonia
-countries/ee.m3u
-#EXTINF:-1,Eswatini
-countries/sz.m3u
-#EXTINF:-1,Ethiopia
-countries/et.m3u
-#EXTINF:-1,Faroe Islands
-countries/fo.m3u
-#EXTINF:-1,Fiji
-countries/fj.m3u
-#EXTINF:-1,Finland
-countries/fi.m3u
-#EXTINF:-1,France
-countries/fr.m3u
-#EXTINF:-1,French Guiana
-countries/gf.m3u
-#EXTINF:-1,French Polynesia
-countries/pf.m3u
-#EXTINF:-1,French Southern Territories
-countries/tf.m3u
-#EXTINF:-1,Gabon
-countries/ga.m3u
-#EXTINF:-1,Gambia
-countries/gm.m3u
-#EXTINF:-1,Georgia
-countries/ge.m3u
-#EXTINF:-1,Germany
-countries/de.m3u
-#EXTINF:-1,Ghana
-countries/gh.m3u
-#EXTINF:-1,Greece
-countries/gr.m3u
-#EXTINF:-1,Greenland
-countries/gl.m3u
-#EXTINF:-1,Guadeloupe
-countries/gp.m3u
-#EXTINF:-1,Guam
-countries/gu.m3u
-#EXTINF:-1,Guatemala
-countries/gt.m3u
-#EXTINF:-1,Guinea
-countries/gn.m3u
-#EXTINF:-1,Guinea-Bissau
-countries/gw.m3u
-#EXTINF:-1,Haiti
-countries/ht.m3u
-#EXTINF:-1,Honduras
-countries/hn.m3u
-#EXTINF:-1,Hong Kong
-countries/hk.m3u
-#EXTINF:-1,Hungary
-countries/hu.m3u
-#EXTINF:-1,Iceland
-countries/is.m3u
-#EXTINF:-1,India
-countries/in.m3u
-#EXTINF:-1,Indonesia
-countries/id.m3u
-#EXTINF:-1,International
-countries/int.m3u
-#EXTINF:-1,Iran
-countries/ir.m3u
-#EXTINF:-1,Iraq
-countries/iq.m3u
-#EXTINF:-1,Ireland
-countries/ie.m3u
-#EXTINF:-1,Israel
-countries/il.m3u
-#EXTINF:-1,Italy
-countries/it.m3u
-#EXTINF:-1,Jamaica
-countries/jm.m3u
-#EXTINF:-1,Japan
-countries/jp.m3u
-#EXTINF:-1,Jordan
-countries/jo.m3u
-#EXTINF:-1,Kazakhstan
-countries/kz.m3u
-#EXTINF:-1,Kenya
-countries/ke.m3u
-#EXTINF:-1,Kiribati
-countries/ki.m3u
-#EXTINF:-1,Kosovo
-countries/xk.m3u
-#EXTINF:-1,Kuwait
-countries/kw.m3u
-#EXTINF:-1,Kyrgyzstan
-countries/kg.m3u
-#EXTINF:-1,Laos
-countries/la.m3u
-#EXTINF:-1,Latvia
-countries/lv.m3u
-#EXTINF:-1,Lebanon
-countries/lb.m3u
-#EXTINF:-1,Lesotho
-countries/ls.m3u
-#EXTINF:-1,Liberia
-countries/lr.m3u
-#EXTINF:-1,Libya
-countries/ly.m3u
-#EXTINF:-1,Liechtenstein
-countries/li.m3u
-#EXTINF:-1,Lithuania
-countries/lt.m3u
-#EXTINF:-1,Luxembourg
-countries/lu.m3u
-#EXTINF:-1,Macao
-countries/mo.m3u
-#EXTINF:-1,Madagascar
-countries/mg.m3u
-#EXTINF:-1,Malawi
-countries/mw.m3u
-#EXTINF:-1,Malaysia
-countries/my.m3u
-#EXTINF:-1,Maldives
-countries/mv.m3u
-#EXTINF:-1,Mali
-countries/ml.m3u
-#EXTINF:-1,Malta
-countries/mt.m3u
-#EXTINF:-1,Marshall Islands
-countries/mh.m3u
-#EXTINF:-1,Martinique
-countries/mq.m3u
-#EXTINF:-1,Mauritania
-countries/mr.m3u
-#EXTINF:-1,Mauritius
-countries/mu.m3u
-#EXTINF:-1,Mayotte
-countries/yt.m3u
-#EXTINF:-1,Mexico
-countries/mx.m3u
-#EXTINF:-1,Micronesia
-countries/fm.m3u
-#EXTINF:-1,Moldova
-countries/md.m3u
-#EXTINF:-1,Monaco
-countries/mc.m3u
-#EXTINF:-1,Mongolia
-countries/mn.m3u
-#EXTINF:-1,Montenegro
-countries/me.m3u
-#EXTINF:-1,Morocco
-countries/ma.m3u
-#EXTINF:-1,Mozambique
-countries/mz.m3u
-#EXTINF:-1,Myanmar
-countries/mm.m3u
-#EXTINF:-1,Namibia
-countries/na.m3u
-#EXTINF:-1,Nauru
-countries/nr.m3u
-#EXTINF:-1,Nepal
-countries/np.m3u
-#EXTINF:-1,Netherlands
-countries/nl.m3u
-#EXTINF:-1,New Caledonia
-countries/nc.m3u
-#EXTINF:-1,New Zealand
-countries/nz.m3u
-#EXTINF:-1,Nicaragua
-countries/ni.m3u
-#EXTINF:-1,Niger
-countries/ne.m3u
-#EXTINF:-1,Nigeria
-countries/ng.m3u
-#EXTINF:-1,Nigeria
-countries/ng.m3u
-#EXTINF:-1,Nigeria
-countries/ng.m3u
-#EXTINF:-1,Nigeria
-countries/ng.m3u
-#EXTINF:-1,Niue
-countries/nu.m3u
-#EXTINF:-1,Norfolk Island
-countries/nf.m3u
-#EXTINF:-1,North Korea
-countries/kp.m3u
-#EXTINF:-1,North Macedonia
-countries/mk.m3u
-#EXTINF:-1,Northern Mariana Islands
-countries/mp.m3u
-#EXTINF:-1,Norway
-countries/no.m3u
-#EXTINF:-1,Oman
-countries/om.m3u
-#EXTINF:-1,Pakistan
-countries/pk.m3u
-#EXTINF:-1,Palau
-countries/pw.m3u
-#EXTINF:-1,Palestine
-countries/ps.m3u
-#EXTINF:-1,Panama
-countries/pa.m3u
-#EXTINF:-1,Papua New Guinea
-countries/pg.m3u
-#EXTINF:-1,Paraguay
-countries/py.m3u
-#EXTINF:-1,Peru
-countries/pe.m3u
-#EXTINF:-1,Philippines
-countries/ph.m3u
-#EXTINF:-1,Pitcairn Islands
-countries/pn.m3u
-#EXTINF:-1,Poland
-countries/pl.m3u
-#EXTINF:-1,Portugal
-countries/pt.m3u
-#EXTINF:-1,Puerto Rico
-countries/pr.m3u
-#EXTINF:-1,Qatar
-countries/qa.m3u
-#EXTINF:-1,Réunion
-countries/re.m3u
-#EXTINF:-1,Romania
-countries/ro.m3u
-#EXTINF:-1,Russia
-countries/ru.m3u
-#EXTINF:-1,Rwanda
-countries/rw.m3u
-#EXTINF:-1,Samoa
-countries/ws.m3u
-#EXTINF:-1,San Marino
-countries/sm.m3u
-#EXTINF:-1,São Tomé & Príncipe
-countries/st.m3u
-#EXTINF:-1,Saudi Arabia
-countries/sa.m3u
-#EXTINF:-1,Senegal
-countries/sn.m3u
-#EXTINF:-1,Serbia
-countries/rs.m3u
-#EXTINF:-1,Seychelles
-countries/sc.m3u
-#EXTINF:-1,Sierra Leone
-countries/sl.m3u
-#EXTINF:-1,Singapore
-countries/sg.m3u
-#EXTINF:-1,Slovakia
-countries/sk.m3u
-#EXTINF:-1,Slovenia
-countries/si.m3u
-#EXTINF:-1,Solomon Islands
-countries/sb.m3u
-#EXTINF:-1,Somalia
-countries/so.m3u
-#EXTINF:-1,South Africa
-countries/za.m3u
-#EXTINF:-1,South Korea
-countries/kr.m3u
-#EXTINF:-1,South Sudan
-countries/ss.m3u
-#EXTINF:-1,Spain
-countries/es.m3u
-#EXTINF:-1,Sri Lanka
-countries/lk.m3u
-#EXTINF:-1,St. Barthélemy
-countries/bl.m3u
-#EXTINF:-1,St. Helena
-countries/sh.m3u
-#EXTINF:-1,St. Martin
-countries/mf.m3u
-#EXTINF:-1,Sudan
-countries/sd.m3u
-#EXTINF:-1,Sweden
-countries/se.m3u
-#EXTINF:-1,Switzerland
-countries/ch.m3u
-#EXTINF:-1,Syria
-countries/sy.m3u
-#EXTINF:-1,Taiwan
-countries/tw.m3u
-#EXTINF:-1,Tajikistan
-countries/tj.m3u
-#EXTINF:-1,Tanzania
-countries/tz.m3u
-#EXTINF:-1,Thailand
-countries/th.m3u
-#EXTINF:-1,Timor-Leste
-countries/tl.m3u
-#EXTINF:-1,Togo
-countries/tg.m3u
-#EXTINF:-1,Tokelau
-countries/tk.m3u
-#EXTINF:-1,Tonga
-countries/to.m3u
-#EXTINF:-1,Trinidad & Tobago
-countries/tt.m3u
-#EXTINF:-1,Tunisia
-countries/tn.m3u
-#EXTINF:-1,Turkey
-countries/tr.m3u
-#EXTINF:-1,Turkmenistan
-countries/tm.m3u
-#EXTINF:-1,Tuvalu
-countries/tv.m3u
-#EXTINF:-1,U.S. Virgin Islands
-countries/vi.m3u
-#EXTINF:-1,Uganda
-countries/ug.m3u
-#EXTINF:-1,Ukraine
-countries/ua.m3u
-#EXTINF:-1,United Arab Emirates
-countries/ae.m3u
-#EXTINF:-1,United Kingdom
-countries/uk.m3u
-#EXTINF:-1,United States
-countries/us.m3u
-#EXTINF:-1,Uruguay
-countries/uy.m3u
-#EXTINF:-1,Uzbekistan
-countries/uz.m3u
-#EXTINF:-1,Vanuatu
-countries/vu.m3u
-#EXTINF:-1,Vatican City
-countries/va.m3u
-#EXTINF:-1,Venezuela
-countries/ve.m3u
-#EXTINF:-1,Vietnam
-countries/vn.m3u
-#EXTINF:-1,Wallis & Futuna
-countries/wf.m3u
-#EXTINF:-1,Western Sahara
-countries/eh.m3u
-#EXTINF:-1,Yemen
-countries/ye.m3u
-#EXTINF:-1,Zambia
-countries/zm.m3u
-#EXTINF:-1,Zimbabwe
-countries/zw.m3u
-#EXTINF:-1,Undefined
-countries/undefined.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FR | TF1 HD" tvg-logo="https://www.tntendirect.com/images/channel/tf1.png" group-title="France",FR | TF1 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/31.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | France 2 HD" tvg-logo="https://www.tntendirect.com/images/channel/france-2.png" group-title="France",FR | France 2 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | France 3 HD" tvg-logo="https://www.tntendirect.com/images/channel/france-3.png" group-title="France",FR | France 3 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/33.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | France 4 HD" tvg-logo="https://www.tntendirect.com/images/channel/france-4.png" group-title="France",FR | France 4 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/34.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | France 5 HD" tvg-logo="https://www.tntendirect.com/images/channel/france-5.png" group-title="France",FR | France 5 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/35.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | M6 HD" tvg-logo="https://www.tntendirect.com/images/channel/m6.png" group-title="France",FR | M6 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/37.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | TF1 Séries Films HD" tvg-logo="https://www.tntendirect.com/images/channel/tf1-series-films.png" group-title="France",FR | TF1 Séries Films HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/38.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | TFX HD" tvg-logo="https://www.tntendirect.com/images/channel/tfx.png" group-title="France",FR | TFX HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/40.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | Arte HD" tvg-logo="https://www.tntendirect.com/images/channel/arte.png" group-title="France",FR | Arte HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/41.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | RMC Sport 1 HD" tvg-logo="https://w0rld.tv/wp-content/uploads/2020/09/rmc-sport-1.png" group-title="France",FR | RMC Sport 1 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/43.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | RMC Sport 2 HD" tvg-logo="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fafa05a283910ac4b.2Epng/1200x630/crop-from/top/quality/80/rmc-sport-2.png" group-title="France",FR | RMC Sport 2 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/44.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | bein SPORTS HD1" tvg-logo="https://www.logolynx.com/images/logolynx/2a/2ab82a4714811c3f545d8ec465e3129b.png" group-title="France",FR | bein SPORTS HD1
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/45.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | bein SPORTS HD2" tvg-logo="https://www.logolynx.com/images/logolynx/2a/2ab82a4714811c3f545d8ec465e3129b.png" group-title="France",FR | bein SPORTS HD2
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/46.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | bein SPORTS HD3" tvg-logo="https://www.logolynx.com/images/logolynx/2a/2ab82a4714811c3f545d8ec465e3129b.png" group-title="France",FR | bein SPORTS HD3
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/47.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | Ushuia HD" tvg-logo="https://www.ladn.eu/wp-content/uploads/2017/04/ushuaia-600x315.png" group-title="France",FR | Ushuia HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/48.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | RMC Decouverte HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/512px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="France",FR | RMC Decouverte HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/49.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | Nat Geo HD" tvg-logo="https://logo-marque.com/wp-content/uploads/2020/09/National-Geographic-Logo.png" group-title="France",FR | Nat Geo HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/50.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | bein SPORTS Max HD4" tvg-logo="https://www.almojaaz.com/wp-content/uploads/2021/06/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A8%D9%8A-%D8%A7%D9%86-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA-%D9%85%D8%A7%D9%83%D8%B3-beIN-MAX-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%84%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D8%A3%D9%85%D9%85-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D9%88%D9%83%D9%88%D8%A8%D8%A7-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-2021.png" group-title="France",FR | bein SPORTS Max HD4
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | bein SPORTS Max HD5" tvg-logo="https://www.almojaaz.com/wp-content/uploads/2021/06/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A8%D9%8A-%D8%A7%D9%86-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA-%D9%85%D8%A7%D9%83%D8%B3-beIN-MAX-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%84%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D8%A3%D9%85%D9%85-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D9%88%D9%83%D9%88%D8%A8%D8%A7-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-2021.png" group-title="France",FR | bein SPORTS Max HD5
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | bein SPORTS Max HD6" tvg-logo="https://www.almojaaz.com/wp-content/uploads/2021/06/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A8%D9%8A-%D8%A7%D9%86-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA-%D9%85%D8%A7%D9%83%D8%B3-beIN-MAX-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%84%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D8%A3%D9%85%D9%85-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D9%88%D9%83%D9%88%D8%A8%D8%A7-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-2021.png" group-title="France",FR | bein SPORTS Max HD6
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/162.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | bein SPORTS Max HD7" tvg-logo="https://www.almojaaz.com/wp-content/uploads/2021/06/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A8%D9%8A-%D8%A7%D9%86-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA-%D9%85%D8%A7%D9%83%D8%B3-beIN-MAX-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%84%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D8%A3%D9%85%D9%85-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D9%88%D9%83%D9%88%D8%A8%D8%A7-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-2021.png" group-title="France",FR | bein SPORTS Max HD7
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | bein SPORTS Max HD8" tvg-logo="https://www.almojaaz.com/wp-content/uploads/2021/06/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A8%D9%8A-%D8%A7%D9%86-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA-%D9%85%D8%A7%D9%83%D8%B3-beIN-MAX-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%84%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D8%A3%D9%85%D9%85-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D9%88%D9%83%D9%88%D8%A8%D8%A7-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-2021.png" group-title="France",FR | bein SPORTS Max HD8
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/164.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | beIN SPORTS Max HD9" tvg-logo="https://www.almojaaz.com/wp-content/uploads/2021/06/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A8%D9%8A-%D8%A7%D9%86-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA-%D9%85%D8%A7%D9%83%D8%B3-beIN-MAX-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%84%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D8%A3%D9%85%D9%85-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D9%88%D9%83%D9%88%D8%A8%D8%A7-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-2021.png" group-title="France",FR | beIN SPORTS Max HD9
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/165.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | beIN SPORTS Max HD10" tvg-logo="https://www.almojaaz.com/wp-content/uploads/2021/06/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A8%D9%8A-%D8%A7%D9%86-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA-%D9%85%D8%A7%D9%83%D8%B3-beIN-MAX-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%84%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D8%A3%D9%85%D9%85-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D9%88%D9%83%D9%88%D8%A8%D8%A7-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-2021.png" group-title="France",FR | beIN SPORTS Max HD10
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | RMC Sport Live 3 HD" tvg-logo="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fafa05a283910ac4b.2Epng/1200x630/crop-from/top/quality/80/rmc-sport-2.png" group-title="France",FR | RMC Sport Live 3 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT LIVE 5 HD" tvg-logo="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fafa05a283910ac4b.2Epng/1200x630/crop-from/top/quality/80/rmc-sport-2.png" group-title="France",FR | RMC SPORT LIVE 5 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT LIVE  6 HD" tvg-logo="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fafa05a283910ac4b.2Epng/1200x630/crop-from/top/quality/80/rmc-sport-2.png" group-title="France",FR | RMC SPORT LIVE  6 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT LIVE 7 HD" tvg-logo="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fafa05a283910ac4b.2Epng/1200x630/crop-from/top/quality/80/rmc-sport-2.png" group-title="France",FR | RMC SPORT LIVE 7 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/170.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | Programme National Algerie HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Logo_de_TV1_Alg%C3%A9rie_%282020%29.svg/1200px-Logo_de_TV1_Alg%C3%A9rie_%282020%29.svg.png" group-title="Algeria",AR | Programme National Algerie HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/64.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | Canal Algerie HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Logo_Canal_Algerie.svg/1200px-Logo_Canal_Algerie.svg.png" group-title="Algeria",AR | Canal Algerie HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/65.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | Echorouk TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Echourouk_TV_logo.svg/1200px-Echourouk_TV_logo.svg.png" group-title="Algeria",AR | Echorouk TV HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/66.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | Echorouk News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/ECHOUROUK-NEWS.png" group-title="Algeria",AR | Echorouk News HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/67.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | Ennahar TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0f/Ennahar_TV_%28logo_actuel%29.svg/1280px-Ennahar_TV_%28logo_actuel%29.svg.png" group-title="Algeria",AR | Ennahar TV HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/68.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | El Bilad TV HD" tvg-logo="https://cdn.woopic.com/v1/AUTH_9ffb653181284b0abe5e45d7014095b2/boutique-tv/elbilad_1440@1x_602eea791e33501fb1261e9c.png" group-title="Algeria",AR | El Bilad TV HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/69.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | El-Fajer TV HD" tvg-logo="https://4.bp.blogspot.com/-REypugcLGAQ/WNlnnNWF8HI/AAAAAAAAU0s/K5a9-LLR3rIDLJLWxJC3yuk64AQSXdWfgCLcB/s1600/%25D9%2582%25D9%2586%25D8%25A7%25D8%25A9%2B%25D8%25A7%25D9%2584%25D9%2581%25D8%25AC%25D8%25B1%2Btv%2B%25D8%25A7%25D9%2584%25D8%25AC%25D8%25B2%25D8%25A7%25D8%25A6%25D8%25B1%25D9%258A%25D8%25A9.png" group-title="Algeria",AR | El-Fajer TV HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/70.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | Algerie 6 TV HD" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/137_picture.png" group-title="Algeria",AR | Algerie 6 TV HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/98.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | EL HEDDAF TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/El_Heddaf_TV.jpg" group-title="Algeria",AR | EL HEDDAF TV HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/192.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | Medi1 Full-HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/8bcbfe19222481.562d6c1dcba3c.png" group-title="Maroco",AR | Medi1 Full-HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/71.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | Al Oula -HD" tvg-logo="https://i.pinimg.com/originals/a7/9f/f1/a79ff1243a7b029e06dc8bdb2558d07d.png" group-title="Maroco",AR | Al Oula -HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/72.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR| Al Maghribia Full-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Almaghribiax2.png" group-title="Maroco",AR| Al Maghribia Full-HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/73.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | Arriadia Full-HD" tvg-logo="https://1.bp.blogspot.com/-ejABzKzAmds/XHbmnLRU6oI/AAAAAAAAIDA/0nKJjObI11EpRbIFVCC1VZlR6gL08obdgCK4BGAYYCw/s1600/icon%2Barryadia%2Bmorocco.png" group-title="Maroco",AR | Arriadia Full-HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/74.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | Assadisa -HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Assadissa.png" group-title="Maroco",AR | Assadisa -HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/75.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | 2M HD { TNT }" tvg-logo="https://www.noonpresse.com/wp-content/uploads/2019/12/logo-2m-1.png" group-title="Maroco",AR | 2M HD { TNT }
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/77.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | M24 HD { TNT }" tvg-logo="https://www.m24tv.ma/ar/system/files/LOGO-M24-VF-sans-texte.png" group-title="Maroco",AR | M24 HD { TNT }
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/78.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | Tunisia Nat 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg/1200px-Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg.png" group-title="Tunisie",AR | Tunisia Nat 1 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/79.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | Tunisia Nat 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg/1200px-Logo_T%C3%A9l%C3%A9vision_tunisienne_2%2C_2017.svg.png" group-title="Tunisie",AR | Tunisia Nat 2 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/80.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | Nessma HD" tvg-logo="https://ween.tn/media/cache/my_thumb_fb/uploads/image/28294/28292/avatar/avatar.png" group-title="Tunisie",AR | Nessma HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/81.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | Hannibal TV HD" tvg-logo="https://tunisietv.com/wp-content/uploads/2015/05/fb-hannibaltv.png" group-title="Tunisie",AR | Hannibal TV HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/82.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | Elhiwar Ettounsi HD" tvg-logo="https://www.tanitweb.com/wp-content/uploads/2021/06/hiwar.png" group-title="Tunisie",AR | Elhiwar Ettounsi HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/83.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | Attessia HD" tvg-logo="" group-title="Tunisie",AR | Attessia HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/84.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | Tunisna HD" tvg-logo="https://iconape.com/wp-content/files/od/281588/png/281588.png" group-title="Tunisie",AR | Tunisna HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/85.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | SSC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="Ssc Sport",AR | SSC 1 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/86.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | SSC 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="Ssc Sport",AR | SSC 2 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/87.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | SSC 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="Ssc Sport",AR | SSC 3 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/88.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | SSC 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="Ssc Sport",AR | SSC 4 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/89.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | SSC 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="Ssc Sport",AR | SSC 5 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/90.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | SSC 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="Ssc Sport",AR | SSC 6 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/91.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | SSC 7 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png" group-title="Ssc Sport",AR | SSC 7 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/92.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | National Geographic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Documentaire",AR | National Geographic HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/93.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR |  Nat Geo Wild HD" tvg-logo="https://e7.pngegg.com/pngimages/47/543/png-clipart-logo-nat-geo-wild-national-geographic-television-channel-others.png" group-title="Documentaire",AR |  Nat Geo Wild HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/94.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | Discovery SC HD" tvg-logo="https://www.kindpng.com/picc/m/17-171720_discovery-science-logo-hd-png-download.png" group-title="Documentaire",AR | Discovery SC HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/95.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | Al Jazeera Documentary HD" tvg-logo="https://e7.pngegg.com/pngimages/762/955/png-clipart-al-jazeera-documentary-channel-doha-aljazeera-international-documentary-film-festival-others-television-text.png" group-title="Documentaire",AR | Al Jazeera Documentary HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/96.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | NAT GEO People HD" tvg-logo="https://e7.pngegg.com/pngimages/736/792/png-clipart-product-design-brand-logo-national-geographic-discovery-science-text-logo-thumbnail.png" group-title="Documentaire",AR | NAT GEO People HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/97.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | MBC 1-HD" tvg-logo="https://www.mbc.net/dam/jcr:b062dbf0-b8e0-4d06-8042-1cf300efcb70/logo-mbc@3x.png" group-title="Mbc Hd",AR | MBC 1-HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/99.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | MBC 2-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/MBC_2_HD_logo.png" group-title="Mbc Hd",AR | MBC 2-HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/100.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | MBC 3-HD" tvg-logo="http://bbb.lol/uploads/tv_image/mbc-3-hd.png" group-title="Mbc Hd",AR | MBC 3-HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/101.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | MBC 4-HD" tvg-logo="https://e7.pngegg.com/pngimages/444/738/png-clipart-television-show-news-mbc-4-logo-product-design-mbc-3-angle-white.png" group-title="Mbc Hd",AR | MBC 4-HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | MBC Bollywood-HD" tvg-logo="https://1.bp.blogspot.com/-adNmI6acPMY/X3nycdFR_gI/AAAAAAAATmQ/l4UJJfbgDYUEKe21n9sqges0M4HtHXWeQCLcBGAsYHQ/s2048/%25D8%25A5%25D9%2585%2B%25D8%25A8%25D9%258A%2B%25D8%25B3%25D9%258A%2B%25D8%25A8%25D9%2588%25D9%2584%25D9%258A%25D9%2588%25D9%2588%25D8%25AF.png" group-title="Mbc Hd",AR | MBC Bollywood-HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/103.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | MBC Drama-HD" tvg-logo="https://4.bp.blogspot.com/-xdlWCS_9bjo/WxKH_A9QB4I/AAAAAAAATlM/7uO647kh7tACExdgVrp6VJg4CIYEhDO8gCLcBGAs/s1600/mbc_ae_drama_hd%2BFrequency.png" group-title="Mbc Hd",AR | MBC Drama-HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | MBC Action-HD" tvg-logo="https://1.bp.blogspot.com/-CpocDLXj9KE/X3ny_kz84GI/AAAAAAAATmY/NxPRXCfR8gE_CQz4lH3y3DdDqH1a7m0ewCLcBGAsYHQ/s2048/%25D8%25A7%25D9%2585%2B%25D8%25A8%25D9%258A%2B%25D8%25B3%25D9%258A%2B%25D8%25A7%25D9%2583%25D8%25B4%25D9%2586.png" group-title="Mbc Hd",AR | MBC Action-HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | MBC Masr-HD" tvg-logo="https://ehegypt.com/wp-content/uploads/2018/01/MBC-Masr.png" group-title="Mbc Hd",AR | MBC Masr-HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | MBC Masr 2-HD" tvg-logo="https://h.top4top.io/p_1515tmnsg1.png" group-title="Mbc Hd",AR | MBC Masr 2-HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/107.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | MBC MAX-HD" tvg-logo="https://mostaql.hsoubcdn.com/uploads/403850-rt9md-1589234660-5eb9cbe42ad67.png" group-title="Mbc Hd",AR | MBC MAX-HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/108.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | MBCPlus Drama-HD" tvg-logo="http://www.tunisvista.com/medias/mbc-drama-plus-tv-live-online-streaming.png" group-title="Mbc Hd",AR | MBCPlus Drama-HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/115.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | MBC5 -HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/MBC_5_TV_Channel_Logo.png" group-title="Mbc Hd",AR | MBC5 -HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/117.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK | Eleven Sport" tvg-logo="https://www.pngfind.com/pngs/m/344-3440838_eleven-sports-logo-eleven-sports-network-logo-hd.png" group-title="Sport English",UK | Eleven Sport
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK | ESPN UK" tvg-logo="https://d107a8nc3g2c4h.cloudfront.net/blog/wp-content/uploads/2021/03/41lChb5QKL.png" group-title="Sport English",UK | ESPN UK
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/151.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK | Eurosport 1 UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Eurosport_hd_%282011-2015%29.png" group-title="Sport English",UK | Eurosport 1 UK
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK | Eurosport 2 UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/Eurosport_hd_%282011-2015%29.png" group-title="Sport English",UK | Eurosport 2 UK
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/153.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS ENGLISH 1 HD" tvg-logo="https://www.logolynx.com/images/logolynx/2a/2ab82a4714811c3f545d8ec465e3129b.png" group-title="Sport English",beIN SPORTS ENGLISH 1 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/133.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS ENGLISH 3 HD" tvg-logo="https://www.logolynx.com/images/logolynx/2a/2ab82a4714811c3f545d8ec465e3129b.png" group-title="Sport English",beIN SPORTS ENGLISH 3 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS ENGLISH 2 HD" tvg-logo="https://www.logolynx.com/images/logolynx/2a/2ab82a4714811c3f545d8ec465e3129b.png" group-title="Sport English",beIN SPORTS ENGLISH 2 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/134.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | Shahid Movies 1 HD" tvg-logo="https://cdn.salla.sa/bZZWP/piX7csrxeCVMbnMtNGXYS5wSzYouxACRrlCO9eAZ.png" group-title="Shahid",AR | Shahid Movies 1 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/226.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | Shahid Movies 2 HD" tvg-logo="https://cdn.salla.sa/bZZWP/piX7csrxeCVMbnMtNGXYS5wSzYouxACRrlCO9eAZ.png" group-title="Shahid",AR | Shahid Movies 2 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/227.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | Shahid Action  HD" tvg-logo="https://cdn.salla.sa/bZZWP/piX7csrxeCVMbnMtNGXYS5wSzYouxACRrlCO9eAZ.png" group-title="Shahid",AR | Shahid Action  HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/228.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | Shahid Adventure 1 HD" tvg-logo="https://cdn.salla.sa/bZZWP/piX7csrxeCVMbnMtNGXYS5wSzYouxACRrlCO9eAZ.png" group-title="Shahid",AR | Shahid Adventure 1 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/229.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | Shahid Adventure 2 HD" tvg-logo="https://cdn.salla.sa/bZZWP/piX7csrxeCVMbnMtNGXYS5wSzYouxACRrlCO9eAZ.png" group-title="Shahid",AR | Shahid Adventure 2 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/230.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | Shahid Crime 1 HD" tvg-logo="https://cdn.salla.sa/bZZWP/piX7csrxeCVMbnMtNGXYS5wSzYouxACRrlCO9eAZ.png" group-title="Shahid",AR | Shahid Crime 1 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/231.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | Shahid Crime 2 HD" tvg-logo="https://cdn.salla.sa/bZZWP/piX7csrxeCVMbnMtNGXYS5wSzYouxACRrlCO9eAZ.png" group-title="Shahid",AR | Shahid Crime 2 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/232.m3u8

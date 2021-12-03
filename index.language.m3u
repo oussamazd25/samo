@@ -1,177 +1,57 @@
 #EXTM3U
-#EXTINF:-1,beinsport
-languages/bein.m3u
-"#EXTINF:-1,aii
-languages/aii.m3u
-"#EXTINF:-1,Akan
-languages/aka.m3u
-"#EXTINF:-1,Amharic
-languages/amh.m3u
-"#EXTINF:-1,Arabic
-languages/ara.m3u
-"#EXTINF:-1,Azerbaijani
-languages/aze.m3u
-"#EXTINF:-1,Bashkir
-languages/bak.m3u
-"#EXTINF:-1,Bengali
-languages/ben.m3u
-"#EXTINF:-1,bho
-languages/bho.m3u
-"#EXTINF:-1,Bosnian
-languages/bos.m3u
-"#EXTINF:-1,Bulgarian
-languages/bul.m3u
-"#EXTINF:-1,Catalan; Valencian
-languages/cat.m3u
-"#EXTINF:-1,Czech
-languages/ces.m3u
-"#EXTINF:-1,Mandarin
-languages/cmn.m3u
-"#EXTINF:-1,cnr
-languages/cnr.m3u
-"#EXTINF:-1,Danish
-languages/dan.m3u
-"#EXTINF:-1,German
-languages/deu.m3u
-"#EXTINF:-1,Greek Modern
-languages/ell.m3u
-"#EXTINF:-1,English
-languages/eng.m3u
-"#EXTINF:-1,Estonian
-languages/est.m3u
-"#EXTINF:-1,Faroese
-languages/fao.m3u
-"#EXTINF:-1,Persian
-languages/fas.m3u
-"#EXTINF:-1,Finnish
-languages/fin.m3u
-"#EXTINF:-1,French
-languages/fra.m3u
-"#EXTINF:-1,Western Frisian
-languages/fry.m3u
-"#EXTINF:-1,Galician
-languages/glg.m3u
-"#EXTINF:-1,Hebrew
-languages/heb.m3u
-"#EXTINF:-1,Hindi
-languages/hin.m3u
-"#EXTINF:-1,Croatian
-languages/hrv.m3u
-"#EXTINF:-1,Hungarian
-languages/hun.m3u
-"#EXTINF:-1,Armenian
-languages/hye.m3u
-"#EXTINF:-1,Inuktitut
-languages/iku.m3u
-"#EXTINF:-1,Indonesian
-languages/ind.m3u
-"#EXTINF:-1,Icelandic
-languages/isl.m3u
-"#EXTINF:-1,Italian
-languages/ita.m3u
-"#EXTINF:-1,Javanese
-languages/jav.m3u
-"#EXTINF:-1,Japanese
-languages/jpn.m3u
-"#EXTINF:-1,Kannada
-languages/kan.m3u
-"#EXTINF:-1,Georgian
-languages/kat.m3u
-"#EXTINF:-1,Kazakh
-languages/kaz.m3u
-"#EXTINF:-1,Central Khmer
-languages/khm.m3u
-"#EXTINF:-1,Kinyarwanda
-languages/kin.m3u
-"#EXTINF:-1,Korean
-languages/kor.m3u
-"#EXTINF:-1,Kurdish
-languages/kur.m3u
-"#EXTINF:-1,Lao
-languages/lao.m3u
-"#EXTINF:-1,Latvian
-languages/lav.m3u
-"#EXTINF:-1,Lithuanian
-languages/lit.m3u
-"#EXTINF:-1,Luxembourgish; Letzeburgesch
-languages/ltz.m3u
-"#EXTINF:-1,Malayalam
-languages/mal.m3u
-"#EXTINF:-1,Marathi
-languages/mar.m3u
-"#EXTINF:-1,Macedonian
-languages/mkd.m3u
-"#EXTINF:-1,Maltese
-languages/mlt.m3u
-"#EXTINF:-1,Mongolian
-languages/mon.m3u
-"#EXTINF:-1,mri
-languages/mri.m3u
-"#EXTINF:-1,Malay
-languages/msa.m3u
-"#EXTINF:-1,Burmese
-languages/mya.m3u
-"#EXTINF:-1,Min Nan Chinese
-languages/nan.m3u
-"#EXTINF:-1,Nepali
-languages/nep.m3u
-"#EXTINF:-1,Dutch; Flemish
-languages/nld.m3u
-"#EXTINF:-1,Bokmål, Norwegian; Norwegian Bokmål
-languages/nob.m3u
-"#EXTINF:-1,Panjabi; Punjabi
-languages/pan.m3u
-"#EXTINF:-1,Polish
-languages/pol.m3u
-"#EXTINF:-1,Portuguese
-languages/por.m3u
-"#EXTINF:-1,Romanian
-languages/ron.m3u
-"#EXTINF:-1,Russian
-languages/rus.m3u
-"#EXTINF:-1,Sinhala; Sinhalese
-languages/sin.m3u
-"#EXTINF:-1,Slovaque
-languages/slk.m3u
-"#EXTINF:-1,Slovenian
-languages/slv.m3u
-"#EXTINF:-1,Somali
-languages/som.m3u
-"#EXTINF:-1,Spanish; Castilian
-languages/spa.m3u
-"#EXTINF:-1,Albanian
-languages/sqi.m3u
-"#EXTINF:-1,Serbian
-languages/srp.m3u
-"#EXTINF:-1,Sundanese
-languages/sun.m3u
-"#EXTINF:-1,Swedish
-languages/swe.m3u
-"#EXTINF:-1,Tamil
-languages/tam.m3u
-"#EXTINF:-1,Telugu
-languages/tel.m3u
-"#EXTINF:-1,Tagalog
-languages/tgl.m3u
-"#EXTINF:-1,Thai
-languages/tha.m3u
-"#EXTINF:-1,Turkmen
-languages/tuk.m3u
-"#EXTINF:-1,Turkish
-languages/tur.m3u
-"#EXTINF:-1,Ukrainian
-languages/ukr.m3u
-"#EXTINF:-1,undefined
-languages/undefined.m3u
-"#EXTINF:-1,Urdu
-languages/urd.m3u
-"#EXTINF:-1,Uzbek
-languages/uzb.m3u
-"#EXTINF:-1,Vietnamese
-languages/vie.m3u
-"#EXTINF:-1,Wolof
-languages/wol.m3u
-"#EXTINF:-1,Yue Chinese
-languages/yue.m3u
-"#EXTINF:-1,Chinois
-languages/zho.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FR | TF1 HD" tvg-logo="https://www.tntendirect.com/images/channel/tf1.png" group-title="France",FR | TF1 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/31.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | France 2 HD" tvg-logo="https://www.tntendirect.com/images/channel/france-2.png" group-title="France",FR | France 2 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/32.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | France 3 HD" tvg-logo="https://www.tntendirect.com/images/channel/france-3.png" group-title="France",FR | France 3 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/33.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | France 4 HD" tvg-logo="https://www.tntendirect.com/images/channel/france-4.png" group-title="France",FR | France 4 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/34.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | France 5 HD" tvg-logo="https://www.tntendirect.com/images/channel/france-5.png" group-title="France",FR | France 5 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/35.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | M6 HD" tvg-logo="https://www.tntendirect.com/images/channel/m6.png" group-title="France",FR | M6 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/37.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | TF1 Séries Films HD" tvg-logo="https://www.tntendirect.com/images/channel/tf1-series-films.png" group-title="France",FR | TF1 Séries Films HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/38.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | TFX HD" tvg-logo="https://www.tntendirect.com/images/channel/tfx.png" group-title="France",FR | TFX HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/40.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | Arte HD" tvg-logo="https://www.tntendirect.com/images/channel/arte.png" group-title="France",FR | Arte HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/41.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | RMC Sport 1 HD" tvg-logo="https://w0rld.tv/wp-content/uploads/2020/09/rmc-sport-1.png" group-title="France",FR | RMC Sport 1 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/43.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | RMC Sport 2 HD" tvg-logo="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fafa05a283910ac4b.2Epng/1200x630/crop-from/top/quality/80/rmc-sport-2.png" group-title="France",FR | RMC Sport 2 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/44.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | bein SPORTS HD1" tvg-logo="https://www.logolynx.com/images/logolynx/2a/2ab82a4714811c3f545d8ec465e3129b.png" group-title="France",FR | bein SPORTS HD1
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/45.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | bein SPORTS HD2" tvg-logo="https://www.logolynx.com/images/logolynx/2a/2ab82a4714811c3f545d8ec465e3129b.png" group-title="France",FR | bein SPORTS HD2
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/46.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | bein SPORTS HD3" tvg-logo="https://www.logolynx.com/images/logolynx/2a/2ab82a4714811c3f545d8ec465e3129b.png" group-title="France",FR | bein SPORTS HD3
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/47.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | Ushuia HD" tvg-logo="https://www.ladn.eu/wp-content/uploads/2017/04/ushuaia-600x315.png" group-title="France",FR | Ushuia HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/48.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | RMC Decouverte HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/512px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="France",FR | RMC Decouverte HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/49.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | Nat Geo HD" tvg-logo="https://logo-marque.com/wp-content/uploads/2020/09/National-Geographic-Logo.png" group-title="France",FR | Nat Geo HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/50.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | bein SPORTS Max HD4" tvg-logo="https://www.almojaaz.com/wp-content/uploads/2021/06/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A8%D9%8A-%D8%A7%D9%86-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA-%D9%85%D8%A7%D9%83%D8%B3-beIN-MAX-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%84%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D8%A3%D9%85%D9%85-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D9%88%D9%83%D9%88%D8%A8%D8%A7-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-2021.png" group-title="France",FR | bein SPORTS Max HD4
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | bein SPORTS Max HD5" tvg-logo="https://www.almojaaz.com/wp-content/uploads/2021/06/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A8%D9%8A-%D8%A7%D9%86-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA-%D9%85%D8%A7%D9%83%D8%B3-beIN-MAX-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%84%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D8%A3%D9%85%D9%85-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D9%88%D9%83%D9%88%D8%A8%D8%A7-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-2021.png" group-title="France",FR | bein SPORTS Max HD5
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/161.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | bein SPORTS Max HD6" tvg-logo="https://www.almojaaz.com/wp-content/uploads/2021/06/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A8%D9%8A-%D8%A7%D9%86-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA-%D9%85%D8%A7%D9%83%D8%B3-beIN-MAX-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%84%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D8%A3%D9%85%D9%85-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D9%88%D9%83%D9%88%D8%A8%D8%A7-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-2021.png" group-title="France",FR | bein SPORTS Max HD6
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/162.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | bein SPORTS Max HD7" tvg-logo="https://www.almojaaz.com/wp-content/uploads/2021/06/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A8%D9%8A-%D8%A7%D9%86-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA-%D9%85%D8%A7%D9%83%D8%B3-beIN-MAX-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%84%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D8%A3%D9%85%D9%85-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D9%88%D9%83%D9%88%D8%A8%D8%A7-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-2021.png" group-title="France",FR | bein SPORTS Max HD7
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | bein SPORTS Max HD8" tvg-logo="https://www.almojaaz.com/wp-content/uploads/2021/06/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A8%D9%8A-%D8%A7%D9%86-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA-%D9%85%D8%A7%D9%83%D8%B3-beIN-MAX-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%84%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D8%A3%D9%85%D9%85-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D9%88%D9%83%D9%88%D8%A8%D8%A7-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-2021.png" group-title="France",FR | bein SPORTS Max HD8
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/164.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | beIN SPORTS Max HD9" tvg-logo="https://www.almojaaz.com/wp-content/uploads/2021/06/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A8%D9%8A-%D8%A7%D9%86-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA-%D9%85%D8%A7%D9%83%D8%B3-beIN-MAX-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%84%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D8%A3%D9%85%D9%85-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D9%88%D9%83%D9%88%D8%A8%D8%A7-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-2021.png" group-title="France",FR | beIN SPORTS Max HD9
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/165.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | beIN SPORTS Max HD10" tvg-logo="https://www.almojaaz.com/wp-content/uploads/2021/06/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A8%D9%8A-%D8%A7%D9%86-%D8%B3%D8%A8%D9%88%D8%B1%D8%AA-%D9%85%D8%A7%D9%83%D8%B3-beIN-MAX-%D8%A7%D9%84%D9%86%D8%A7%D9%82%D9%84%D8%A9-%D9%84%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D8%A3%D9%85%D9%85-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D9%88%D9%83%D9%88%D8%A8%D8%A7-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-2021.png" group-title="France",FR | beIN SPORTS Max HD10
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | RMC Sport Live 3 HD" tvg-logo="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fafa05a283910ac4b.2Epng/1200x630/crop-from/top/quality/80/rmc-sport-2.png" group-title="France",FR | RMC Sport Live 3 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT LIVE 5 HD" tvg-logo="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fafa05a283910ac4b.2Epng/1200x630/crop-from/top/quality/80/rmc-sport-2.png" group-title="France",FR | RMC SPORT LIVE 5 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT LIVE  6 HD" tvg-logo="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fafa05a283910ac4b.2Epng/1200x630/crop-from/top/quality/80/rmc-sport-2.png" group-title="France",FR | RMC SPORT LIVE  6 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR | RMC SPORT LIVE 7 HD" tvg-logo="https://www.programme-tv.net/imgre/fit/https.3A.2F.2Fprd2-tel-epg-img.2Es3-eu-west-1.2Eamazonaws.2Ecom.2Fchannel.2Fafa05a283910ac4b.2Epng/1200x630/crop-from/top/quality/80/rmc-sport-2.png" group-title="France",FR | RMC SPORT LIVE 7 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/170.m3u8

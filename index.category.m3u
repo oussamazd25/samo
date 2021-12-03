@@ -1,61 +1,81 @@
 #EXTM3U
-#EXTINF:-1,Auto
-categories/auto.m3u
-#EXTINF:-1,beinsport
-categories/bein.m3u
-#EXTINF:-1,Animation
-categories/animation.m3u
-#EXTINF:-1,Business
-categories/Business.m3u
-#EXTINF:-1,Classic
-categories/classic.m3u
-#EXTINF:-1,Comedy
-categories/comedy.m3u
-#EXTINF:-1,Cooking
-categories/Cooking.m3u
-#EXTINF:-1,Culture
-categories/culture.m3u
-#EXTINF:-1,Documentary
-categories/documentary.m3u
-#EXTINF:-1,Education
-categories/education.m3u
-#EXTINF:-1,Entertainment
-categories/entertainment.m3u
-#EXTINF:-1,Family
-categories/family.m3u
-#EXTINF:-1,General
-categories/general.m3u
-#EXTINF:-1,Kids
-categories/kids.m3u
-#EXTINF:-1,Legislative
-categories/legislative.m3u
-#EXTINF:-1,Lifestyle
-categories/lifestyle.m3u
-#EXTINF:-1,Local
-categories/local.m3u
-#EXTINF:-1,Movies
-categories/movies.m3u
-#EXTINF:-1,Music
-categories/music.m3u
-#EXTINF:-1,News
-categories/news.m3u
-#EXTINF:-1,Outdoor
-categories/outdoor.m3u
-#EXTINF:-1,Relax
-categories/relax.m3u
-#EXTINF:-1,Religious
-categories/religious.m3u
-#EXTINF:-1,Series
-categories/series.m3u
-#EXTINF:-1,Science
-categories/science.m3u
-#EXTINF:-1,Shop
-categories/shop.m3u
-#EXTINF:-1,Sports
-categories/sports.m3u
-#EXTINF:-1,Travel
-categories/travel.m3u
-#EXTINF:-1,Weather
-categories/weather.m3u
-#EXTINF:-1,Other
-categories/other.m3u
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM 1  Full-HD" tvg-logo="https://www.logolynx.com/images/logolynx/2a/2ab82a4714811c3f545d8ec465e3129b.png" group-title="Bein sport FHD",beIN SPORTS PREMIUM 1  Full-HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM 2 Full-HD" tvg-logo="https://www.logolynx.com/images/logolynx/2a/2ab82a4714811c3f545d8ec465e3129b.png" group-title="Bein sport FHD",beIN SPORTS PREMIUM 2 Full-HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM 3 Full-HD" tvg-logo="https://www.logolynx.com/images/logolynx/2a/2ab82a4714811c3f545d8ec465e3129b.png" group-title="Bein sport FHD",beIN SPORTS PREMIUM 3 Full-HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 Full-HD" tvg-logo="https://www.logolynx.com/images/logolynx/2a/2ab82a4714811c3f545d8ec465e3129b.png" group-title="Bein sport FHD",beIN SPORTS 1 Full-HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 Full-HD" tvg-logo="https://www.logolynx.com/images/logolynx/2a/2ab82a4714811c3f545d8ec465e3129b.png" group-title="Bein sport FHD",beIN SPORTS 2 Full-HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 Full-HD" tvg-logo="https://www.logolynx.com/images/logolynx/2a/2ab82a4714811c3f545d8ec465e3129b.png" group-title="Bein sport FHD",beIN SPORTS 3 Full-HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="mantechnology " tvg-logo="https://img-0.journaldunet.com/sG09L1I2JVfofPB7mDC4ocT9uWk=/1500x/smart/a431a691531d4edfb1d0571487c05d25/ccmcms-jdn/25498245.jpg" group-title="mantechnology",mantechnology 
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 Full-HD" tvg-logo="https://www.logolynx.com/images/logolynx/2a/2ab82a4714811c3f545d8ec465e3129b.png" group-title="Bein sport FHD",beIN SPORTS 4 Full-HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 Full-HD" tvg-logo="https://www.logolynx.com/images/logolynx/2a/2ab82a4714811c3f545d8ec465e3129b.png" group-title="Bein sport FHD",beIN SPORTS 5 Full-HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 Full-HD" tvg-logo="https://www.logolynx.com/images/logolynx/2a/2ab82a4714811c3f545d8ec465e3129b.png" group-title="Bein sport FHD",beIN SPORTS 6 Full-HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 Full-HD" tvg-logo="https://www.logolynx.com/images/logolynx/2a/2ab82a4714811c3f545d8ec465e3129b.png" group-title="Bein sport FHD",beIN SPORTS 7 Full-HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/209.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS NBA HD" tvg-logo="https://www.logolynx.com/images/logolynx/2a/2ab82a4714811c3f545d8ec465e3129b.png" group-title="Bein sport HD",beIN SPORTS NBA HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS XTRA 1 HD" tvg-logo="https://www.logolynx.com/images/logolynx/2a/2ab82a4714811c3f545d8ec465e3129b.png" group-title="Bein sport HD",beIN SPORTS XTRA 1 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS XTRA 2 HD" tvg-logo="https://www.logolynx.com/images/logolynx/2a/2ab82a4714811c3f545d8ec465e3129b.png" group-title="Bein sport HD",beIN SPORTS XTRA 2 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM 1 HD" tvg-logo="https://www.logolynx.com/images/logolynx/2a/2ab82a4714811c3f545d8ec465e3129b.png" group-title="Bein sport HD",beIN SPORTS PREMIUM 1 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM 2 HD" tvg-logo="https://www.logolynx.com/images/logolynx/2a/2ab82a4714811c3f545d8ec465e3129b.png" group-title="Bein sport HD",beIN SPORTS PREMIUM 2 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS PREMIUM 3 HD" tvg-logo="https://www.logolynx.com/images/logolynx/2a/2ab82a4714811c3f545d8ec465e3129b.png" group-title="Bein sport HD",beIN SPORTS PREMIUM 3 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 HD" tvg-logo="https://www.logolynx.com/images/logolynx/2a/2ab82a4714811c3f545d8ec465e3129b.png" group-title="Bein sport HD",beIN SPORTS 1 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/13.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 HD" tvg-logo="https://www.logolynx.com/images/logolynx/2a/2ab82a4714811c3f545d8ec465e3129b.png" group-title="Bein sport HD",beIN SPORTS 2 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/14.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 HD" tvg-logo="https://www.logolynx.com/images/logolynx/2a/2ab82a4714811c3f545d8ec465e3129b.png" group-title="Bein sport HD",beIN SPORTS 3 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/15.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 HD" tvg-logo="https://www.logolynx.com/images/logolynx/2a/2ab82a4714811c3f545d8ec465e3129b.png" group-title="Bein sport HD",beIN SPORTS 4 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/16.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 HD" tvg-logo="https://www.logolynx.com/images/logolynx/2a/2ab82a4714811c3f545d8ec465e3129b.png" group-title="Bein sport HD",beIN SPORTS 5 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/17.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 HD" tvg-logo="https://www.logolynx.com/images/logolynx/2a/2ab82a4714811c3f545d8ec465e3129b.png" group-title="Bein sport HD",beIN SPORTS 6 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/18.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 HD" tvg-logo="https://www.logolynx.com/images/logolynx/2a/2ab82a4714811c3f545d8ec465e3129b.png" group-title="Bein sport HD",beIN SPORTS 7 HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/19.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS hd" tvg-logo="https://www.logolynx.com/images/logolynx/2a/2ab82a4714811c3f545d8ec465e3129b.png" group-title="Bein sport HD",beIN SPORTS hd
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS News HD" tvg-logo="https://www.logolynx.com/images/logolynx/2a/2ab82a4714811c3f545d8ec465e3129b.png" group-title="Bein sport HD",beIN SPORTS News HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/201.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 1 Premiere Full-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png" group-title="Bein Movies",beIN Movies 1 Premiere Full-HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/20.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 2 Action Full-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png" group-title="Bein Movies",beIN Movies 2 Action Full-HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/21.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 3 Drama Full-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png" group-title="Bein Movies",beIN Movies 3 Drama Full-HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/22.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 4 Family Full-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png" group-title="Bein Movies",beIN Movies 4 Family Full-HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/23.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Series 1 Full-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png" group-title="Bein Movies",beIN Series 1 Full-HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/24.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Series 2 Full-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png" group-title="Bein Movies",beIN Series 2 Full-HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/25.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Movies Full-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png" group-title="Bein Movies",beIN Fox Movies Full-HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/26.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Action Movies Full-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png" group-title="Bein Movies",beIN Fox Action Movies Full-HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/27.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Crime Full-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png" group-title="Bein Movies",beIN Fox Crime Full-HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/28.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Life Full-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png" group-title="Bein Movies",beIN Fox Life Full-HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/29.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN Baraem Full-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png" group-title="Bein Movies",beIN Baraem Full-HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/30.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | beIN Jeem HD" tvg-logo="https://4.bp.blogspot.com/-KlQVgXlGIn8/XHhD6ntD6YI/AAAAAAAAIKU/gbcwwPfix9cc2Y22i-XxLLpBPjH1FY6hgCK4BGAYYCw/s1600/logo%2Bjeem%2Btv.png" group-title="Bein Movies",AR | beIN Jeem HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/154.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | beIN Baby TV HD" tvg-logo="https://4.bp.blogspot.com/-SgC3LQSR9EM/VQ1efYK_6HI/AAAAAAAAC2U/bhzdotm2Q7I/s1600/BABY%2BTV.png" group-title="Bein Movies",AR | beIN Baby TV HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR | beIN be Junior HD" tvg-logo="https://www.bein.com/ar/wp-content/uploads/sites/4/2020/06/beJUNIOR.png" group-title="Bein Movies",AR | beIN be Junior HD
+http://mantech-tv.xyz:8888/live/mantechnology88/mantechnology88/156.m3u8
